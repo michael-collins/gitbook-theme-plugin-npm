@@ -1,6 +1,6 @@
 {
-  "name": "gitbook-stevemar-plugin",
-  "version": "0.0.1",
+  "name": "gitbook-plugin-stevemar-archive",
+  "version": "0.1.1",
   "description": "A test for adding archives",
   "engines": {
     "gitbook": ">1.x.x"
